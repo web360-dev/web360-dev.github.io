@@ -1,44 +1,21 @@
 # cloud.web360.dev
+Ai UX examples using supabase and shadui, compatible with lovable.dev and other frameworks
 
-If you had one API Key
-```bash
-.env
-WEB360_API_KEY="web360_***********"
-```
+[/ui-ai-card](/ui-ai-card) why structure your data when you can extract and display it at runtime?
 
-For all your agent tools
-```bash
-/assistant/email
-/assistant/search
-/assistant/database
-```
+[/ui-supabase-table](/ui-supabase-table) ever wanted to display a supabase table directly with advanced search on top of it?
 
-What will you build?
+[/ui-csv-data-enrichment](/ui-csv-data-enrichment) what csv would you let your customers enrich? events? or shopping orders?
 
 
-## General purpose tools for Ai Agents
-Re-usable Agent tools as API endpoints
-for your daily agent workflow use cases
-that can be integrated in the frontend or the backend
+
+Long term advanced Agents with tools in under 100 lines of code?
+
+[/agent-pa.py](/agent-pa.py) 
+
+[/agent-sdr.py](/agent-sdr.py) a full blown agent sdr that manages a crm? wild.
+
+[/personal-assistant](/personal-assistant) an agent that can research, update your documents, and manage emails campaigns in under 100 lines of code?
 
 
-## Documentation
 
-for humans: https://api.web360.dev
-
-for assistants: https://docs.web360.dev
-
-
-## Never write tool boilerplate again
-
-Re-usable tools for every task.
-
-AI Agent startups can apply for $1000 in API credits.
-
-Schedule a call with one of the founders or join waitlist.
-
-We'll review your application within 24 hours.
-
-[Chat to founders](https://cal.com/lukas-korganas-ucnwus)
-
-[Sign up for $100 API credits](https://form.typeform.com/to/my2jUsNq)
